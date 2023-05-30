@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "title": "Roti Bakar Asgar",
+      "image": "Group-1.png",
+      "slug": "roti-bakar-asgar"
+    },
+    {
+      "title": "Burger King",
+      "image": "burgerking.png",
+      "slug": "burger-king"
+    },
+    {
+      "title": "Coto Makasar",
+      "image": "coto-makasar.jpg",
+      "slug": "coto-makasar"
+    },
+    {
+      "title": "Kopi Gayo",
+      "image": "kopi-gayo.jpg",
+      "slug": "kopi-gayo"
+    },
+    {
+      "title": "Nasi Uduk",
+      "image": "nasi-uduk.jpeg",
+      "slug": "nasi-uduk"
+    },
+    {
+      "title": "Ayam Madu",
+      "image": "ayam-madu.webp",
+      "slug": "ayam-madu"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.left-col {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(
+      rgba(250, 233, 0, 0.76),
+      rgba(233, 215, 13, 0.76)
+    ),
+    url("/public/img/Mask-Group.png");
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: #efc81a;
+}
+
+@media only screen and (max-width: 640px) {
+  .left {
+    width: 100%;
+  }
+  .logo {
+    display: none;
+  }
+  .right {
+    width: 100%;
+    position: absolute;
+    margin-top: 25%;
+
+    background-color: wheat;
+  }
+}
