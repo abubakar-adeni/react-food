@@ -23,46 +23,46 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0 gap-lg-4 fw-semibold">
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link text-decoration-underline text-center"
                 aria-current="page"
-                href="/"
+                to="/"
                 style={{ color: '#2e266f' }}
               >
                 Home
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link text-center"
-                href="./addrecipe"
+                to="./addrecipe"
                 style={{ color: '#2e266f' }}
               >
                 Add Recipe
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link text-center"
-                href="./profile"
+                to="./profile"
                 style={{ color: '#2e266f' }}
               >
                 Profile
-              </a>
+              </Link>
             </li>
             <li className="nav-item d-lg-none d-block">
-              <a
+              <Link
                 className="nav-link text-center"
-                href="/login"
+                to="/login"
                 style={{ color: '#2e266f' }}
               >
                 Login
-              </a>
+              </Link>
             </li>
           </ul>
           <div>
-            <a
-              href="/login"
+            <Link
+              to="/login"
               className="text-decoration-none d-flex justify-content-end align-items-center gap-3 d-lg-flex d-none fw-semibold"
               style={{ color: '#fff' }}
             >
@@ -72,7 +72,7 @@ function Navbar() {
                 style={{ width: '15%' }}
               />
               Login
-            </a>
+            </Link>
           </div>
         </div>
       </div>
