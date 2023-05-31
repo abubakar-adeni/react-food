@@ -121,8 +121,8 @@ function App() {
               style={{ color: "#3f3a3a" }}
               className="text-center text-lg-start"
             >
-              Quick + Easy Chicken Bone Broth Ramen- Healthy chicken ramen in a
-              hurry? That's right!
+              Pengalaman sensasi burger yang luar biasa! Nikmati kelezatan daging sapi panggang dengan cita rasa yang meledak di mulut, disajikan di antara roti empuk yang lezat. 
+              Padukan dengan pilihan topping segar dan saus istimewa yang membuat lidah bergoyang! 
             </p>
             <a
               href="./details/Burger-King"
