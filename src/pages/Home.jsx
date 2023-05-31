@@ -72,8 +72,8 @@ function App() {
               style={{ color: "#3f3a3a" }}
               className="text-center text-lg-start"
             >
-              Quick + Easy Chicken Bone Broth Ramen- Healthy chicken ramen in a
-              hurry? That's right!
+              Roti Bakar Asgar ! Rasakan kelezatan roti bakar kami yang gurih dan renyah,
+               dengan berbagai pilihan topping yang menggoda selera!
             </p>
             <a
               href="./details/Roti-Bakar-Asgar"
