@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <div align="center">
-    <img height="50" width="127" src="./documentation/logo-recipe.png" alt="Peworld" border="0"/>
+    <img height="150" src="./documentation/logo-recipe.png" alt="recipe-mama" border="0"/>
   </div>
   <h3 align="center">Recipe's Mama (Recipe App)</h3>
   <p align="center">
