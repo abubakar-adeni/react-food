@@ -89,7 +89,7 @@ npm run build
 
 # Screenshots
 
-<img width="840" src="./documentation/3-devices-black.png" border="0" alt="Landing Page" />
+<img width="840" src="./documentation/all-devices.png" border="0" alt="Landing Page" />
 <br>
 
 <table>
@@ -102,20 +102,13 @@ npm run build
     <td>Register</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/profile.png" border="0" alt="Profile" /> </td>
-    <td><img width="350px" src="./documentation/hire.png" border="0" alt="Hire" /> </td>
+    <td><img width="350px" src="./documentation/saved-food.png" border="0" alt="Profile" /> </td>
+    <td><img width="350px" src="./documentation/addrecipe.png" border="0" alt="Hire" /> </td>
   </tr>
    <tr>
     <td>Edit Profile</td>
-    <td>Hire</td>
+    <td>Add Recipe</td>
   </tr>
-  <tr>
-    <td><img width="350px" src="./documentation/search.png" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/detail.png" border="0" alt="Detail Talent" /> </td>
-  </tr>
-   <tr>
-    <td>Search</td>
-    <td>Detail Talent</td>
 </table>
 
 # Related Project
