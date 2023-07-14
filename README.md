@@ -5,7 +5,7 @@
   </div>
   <h3 align="center">Recipe's Mama (Recipe App)</h3>
   <p align="center">
-    <a href="https://github.com/abubakar-adeni/hirejob_fe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abubakar-adeni/react-food"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://react-food-fawn.vercel.app/">View Demo</a>
   </p>
@@ -54,13 +54,13 @@ Follow this steps to run the server locally
 1. Clone this repository
 
 ```sh
-git clone https://github.com/abubakar-adeni/hirejob_fe.git
+git clone https://github.com/abubakar-adeni/react-food.git
 ```
 
 2. Change directory to hirejob-frontend
 
 ```sh
-cd hirejob_fe
+cd react-food
 ```
 
 3. Install all of the required modules
@@ -113,8 +113,8 @@ npm run build
 
 # Related Project
 
-:rocket: [`Frontend Peworld`](https://github.com/abubakar-adeni/hirejob_fe)
+:rocket: [`Frontend Recipe Food`](https://github.com/abubakar-adeni/hirejob_fe)
 
-:rocket: [`Backend Peworld`](https://github.com/kubil-ismail/hire_job_be)
+:rocket: [`Backend Recipe Food`](https://github.com/abubakar-adeni/pijar-food-be)
 
-:rocket: [`Demo Peworld`](https://hirejob-fe-tqqw.vercel.app/)
+:rocket: [`Demo Recipe Food`](https://react-food-fawn.vercel.app/)
