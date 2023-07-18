@@ -23,7 +23,7 @@
 
 # About The Project
 
-Peworld is a hiring website to make it easier to connect workers with recruiters. Workers can create an account and display portfolios, work experiences, and skills on this website. Recruiters can create an account for searching and hiring workers based on company needs. Workers will be notified if they are hired by recruiter.
+Recipe Mama is a recipe website that makes it easy for users to access food recipes with a delightful experience. Users can create an account and post their own recipes, and they can also bookmark their favorite recipes.
 
 ## Built With
 
@@ -45,7 +45,7 @@ You'll need these programs installed before proceeding to installation
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download)
 
-This project requires [peworld-be](https://github.com/ikkair/peworld-be) to function properly, follow the steps provided in the readme to install and run the backend API
+This project requires [peworld-be](https://github.com/abubakar-adeni/pijar-food-be) to function properly, follow the steps provided in the readme to install and run the backend API
 
 ## Installation
 
