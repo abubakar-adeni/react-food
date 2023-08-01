@@ -115,6 +115,6 @@ npm run build
 
 :rocket: [`Frontend Recipe Food`](https://github.com/abubakar-adeni/hirejob_fe)
 
-:rocket: [`Backend Recipe Food`](https://github.com/abubakar-adeni/pijar-food-be)
+:rocket: [`Backend Recipe Food`](https://github.com/abubakar-adeni/backend-recipes)
 
 :rocket: [`Demo Recipe Food`](https://react-food-fawn.vercel.app/)
