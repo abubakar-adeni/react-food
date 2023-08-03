@@ -111,9 +111,11 @@ npm run build
   </tr>
   <tr>
     <td><img width="350px" src="./documentation/landing-page.png" border="0" alt="Hire" /> </td>
+    <td><img width="350px" src="./documentation/detail-recipe.png" border="0" alt="Hire" /> </td>
     </tr>
   <tr>
     <td>Landing Page</td>
+    <td>Detail Recipe</td>
   </tr>
 </table>
 
