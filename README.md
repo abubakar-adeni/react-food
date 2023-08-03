@@ -102,7 +102,7 @@ npm run build
     <td>Register</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/edit-profile.png" border="0" alt="Profile" /> </td>
+    <td><img width="350px" src="./documentation/edit-profil.png" border="0" alt="Profile" /> </td>
     <td><img width="350px" src="./documentation/addrecipe.png" border="0" alt="Hire" /> </td>
   </tr>
    <tr>
