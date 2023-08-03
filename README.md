@@ -109,6 +109,12 @@ npm run build
     <td>Edit Profile</td>
     <td>Add Recipe</td>
   </tr>
+  <tr>
+    <td><img width="350px" src="./documentation/landing-page.png" border="0" alt="Hire" /> </td>
+    </tr>
+  <tr>
+    <td>Landing Page</td>
+  </tr>
 </table>
 
 # Related Project
