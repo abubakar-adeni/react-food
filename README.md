@@ -117,6 +117,11 @@ npm run build
     <td>Landing Page</td>
     <td>Detail Recipe</td>
   </tr>
+  <tr> 
+ <td><img width="350px" src="./documentation/my-recipe.png" border="0" alt="Hire" /> </td>
+    </tr>
+  <tr>
+    <td>My Recipe</td>
 </table>
 
 # Related Project
