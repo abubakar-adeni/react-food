@@ -110,7 +110,7 @@ npm run build
     <td>Add Recipe</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/landing-page.png" border="0" alt="Hire" /> </td>
+    <td><img width="350px" src="./documentation/landingpage.png" border="0" alt="Hire" /> </td>
     <td><img width="350px" src="./documentation/detail-recipe.png" border="0" alt="Hire" /> </td>
     </tr>
   <tr>
